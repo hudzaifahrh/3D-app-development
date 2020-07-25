@@ -1,0 +1,13 @@
+c:\users\lenovo\source\repos\App\App\bin\Debug\App.exe.config
+c:\users\lenovo\source\repos\App\App\bin\Debug\App.exe
+c:\users\lenovo\source\repos\App\App\bin\Debug\App.pdb
+c:\users\lenovo\source\repos\App\App\obj\Debug\App.csprojAssemblyReference.cache
+c:\users\lenovo\source\repos\App\App\obj\Debug\App.Properties.Resources.resources
+c:\users\lenovo\source\repos\App\App\obj\Debug\App.csproj.GenerateResource.cache
+c:\users\lenovo\source\repos\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\App\App\obj\Debug\App.exe
+c:\users\lenovo\source\repos\App\App\obj\Debug\App.pdb
+C:\Users\Lenovo\source\repos\App\App\obj\Debug\App.MainForm.resources
+C:\Users\Lenovo\source\repos\App\App\bin\Debug\libpxcclr.cs.dll
+C:\Users\Lenovo\source\repos\App\App\bin\Debug\libsampledx.dll
+C:\Users\Lenovo\source\repos\App\App\obj\Debug\App.csproj.CopyComplete

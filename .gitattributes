@@ -1,0 +1,7 @@
+*.nupkg filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.dat filter=lfs diff=lfs merge=lfs -text
+*.pak filter=lfs diff=lfs merge=lfs -text
+App/bin/x64/Debug/libcef.dll filter=lfs diff=lfs merge=lfs -text
+App/bin/x86/Debug/libcef.dll filter=lfs diff=lfs merge=lfs -text
+*.pdb filter=lfs diff=lfs merge=lfs -text

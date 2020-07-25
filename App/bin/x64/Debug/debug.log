@@ -1,0 +1,77 @@
+[0613/150153.177:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0613/150153.178:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0622/234540.247:INFO:CONSOLE(40)] "Uncaught ReferenceError: Morris is not defined", source: http://x1.hcm-lab.id:3000/assets/js/custom.js (40)
+[0622/234541.389:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(73,9-50): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0622/234542.014:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(73,23-41): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0622/234602.891:INFO:CONSOLE(40)] "Uncaught ReferenceError: Morris is not defined", source: http://x1.hcm-lab.id:3000/assets/js/custom.js (40)
+[0622/234610.700:INFO:CONSOLE(40)] "Uncaught ReferenceError: Morris is not defined", source: http://x1.hcm-lab.id:3000/assets/js/custom.js (40)
+[0622/234611.223:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/bootstrap.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html#/upload/fox/fox.OBJ (0)
+[0622/234611.234:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/custom.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html#/upload/fox/fox.OBJ (0)
+[0622/234614.049:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/bootstrap.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html#/upload/fox/fox.OBJ (0)
+[0622/234614.051:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/custom.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html#/upload/fox/fox.OBJ (0)
+[0622/234614.256:INFO:CONSOLE(578)] "THREE.WebGLRenderer 73", source: http://x1.hcm-lab.id:3000/assets/jsmodeler/three.min.js (578)
+[0630/135056.398:INFO:CONSOLE(40)] "Uncaught ReferenceError: Morris is not defined", source: http://x1.hcm-lab.id:3000/assets/js/custom.js (40)
+[0630/135056.926:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(73,9-50): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0630/135057.513:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(73,23-41): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0630/135119.680:INFO:CONSOLE(40)] "Uncaught ReferenceError: Morris is not defined", source: http://x1.hcm-lab.id:3000/assets/js/custom.js (40)
+[0630/135119.934:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/bootstrap.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html# (0)
+[0630/135119.957:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/custom.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html# (0)
+[0630/135123.028:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/bootstrap.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html# (0)
+[0630/135123.044:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/custom.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html# (0)
+[0630/135123.363:INFO:CONSOLE(578)] "THREE.WebGLRenderer 73", source: http://x1.hcm-lab.id:3000/assets/jsmodeler/three.min.js (578)
+[0630/163118.345:INFO:CONSOLE(40)] "Uncaught ReferenceError: Morris is not defined", source: http://x1.hcm-lab.id:3000/assets/js/custom.js (40)
+[0630/163120.721:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(73,9-50): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0630/163121.146:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(73,23-41): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0630/163137.705:INFO:CONSOLE(40)] "Uncaught ReferenceError: Morris is not defined", source: http://x1.hcm-lab.id:3000/assets/js/custom.js (40)
+[0630/163137.954:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/bootstrap.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html# (0)
+[0630/163137.971:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/custom.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html# (0)
+[0630/163147.611:INFO:CONSOLE(40)] "Uncaught ReferenceError: Morris is not defined", source: http://x1.hcm-lab.id:3000/assets/js/custom.js (40)
+[0630/163147.713:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/bootstrap.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html#/upload/multimesh/multimesh.mtl,/upload/multimesh/multimesh.obj (0)
+[0630/163147.717:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/custom.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html#/upload/multimesh/multimesh.mtl,/upload/multimesh/multimesh.obj (0)
+[0630/163148.939:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/bootstrap.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html#/upload/multimesh/multimesh.mtl,/upload/multimesh/multimesh.obj (0)
+[0630/163148.951:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/custom.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html#/upload/multimesh/multimesh.mtl,/upload/multimesh/multimesh.obj (0)
+[0630/163149.132:INFO:CONSOLE(578)] "THREE.WebGLRenderer 73", source: http://x1.hcm-lab.id:3000/assets/jsmodeler/three.min.js (578)
+[0630/163149.508:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(111,3-49): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[0630/163149.512:INFO:CONSOLE(648)] "THREE.WebGLProgram: gl.getProgramInfoLog() C:\fakepath(111,3-49): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+
+", source: http://x1.hcm-lab.id:3000/assets/jsmodeler/three.min.js (648)
+[0630/163225.896:INFO:CONSOLE(40)] "Uncaught ReferenceError: Morris is not defined", source: http://x1.hcm-lab.id:3000/assets/js/custom.js (40)
+[0630/163226.231:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/bootstrap.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html#/upload/box/textured%20cube.mtl,/upload/box/texture.png,/upload/box/textured%20cube.obj (0)
+[0630/163226.231:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/custom.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html#/upload/box/textured%20cube.mtl,/upload/box/texture.png,/upload/box/textured%20cube.obj (0)
+[0630/163226.290:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/bootstrap.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html#/upload/box/textured%20cube.mtl,/upload/box/texture.png,/upload/box/textured%20cube.obj (0)
+[0630/163226.292:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/custom.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html#/upload/box/textured%20cube.mtl,/upload/box/texture.png,/upload/box/textured%20cube.obj (0)
+[0630/163226.416:INFO:CONSOLE(578)] "THREE.WebGLRenderer 73", source: http://x1.hcm-lab.id:3000/assets/jsmodeler/three.min.js (578)
+[0630/163235.802:INFO:CONSOLE(40)] "Uncaught ReferenceError: Morris is not defined", source: http://x1.hcm-lab.id:3000/assets/js/custom.js (40)
+[0630/163236.025:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/bootstrap.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html#/upload/fox/fox.OBJ (0)
+[0630/163236.031:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/custom.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html#/upload/fox/fox.OBJ (0)
+[0630/163236.126:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/custom.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html#/upload/fox/fox.OBJ (0)
+[0630/163236.128:INFO:CONSOLE(0)] "Refused to apply style from 'http://x1.hcm-lab.id:3000/views/assets/css/bootstrap.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: http://x1.hcm-lab.id:3000/views/index.html#/upload/fox/fox.OBJ (0)
+[0630/163236.260:INFO:CONSOLE(578)] "THREE.WebGLRenderer 73", source: http://x1.hcm-lab.id:3000/assets/jsmodeler/three.min.js (578)
+[0701/170058.252:INFO:CONSOLE(40)] "Uncaught ReferenceError: Morris is not defined", source: http://x1.hcm-lab.id:3000/assets/js/custom.js (40)
+[0701/170103.846:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(73,9-50): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0701/170104.310:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(73,23-41): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0701/170106.418:INFO:CONSOLE(40)] "Uncaught ReferenceError: Morris is not defined", source: http://x1.hcm-lab.id:3000/assets/js/custom.js (40)
+[0701/170106.421:INFO:CONSOLE(40)] "Uncaught ReferenceError: Morris is not defined", source: http://x1.hcm-lab.id:3000/assets/js/custom.js (40)
+[0701/170114.343:INFO:CONSOLE(40)] "Uncaught ReferenceError: Morris is not defined", source: http://x1.hcm-lab.id:3000/assets/js/custom.js (40)
+[0701/170114.347:INFO:CONSOLE(40)] "Uncaught ReferenceError: Morris is not defined", source: http://x1.hcm-lab.id:3000/assets/js/custom.js (40)
+[0701/170123.964:INFO:CONSOLE(40)] "Uncaught ReferenceError: Morris is not defined", source: http://x1.hcm-lab.id:3000/assets/js/custom.js (40)
+[0701/195139.661:INFO:CONSOLE(40)] "Uncaught ReferenceError: Morris is not defined", source: http://x1.hcm-lab.id:3000/assets/js/custom.js (40)
